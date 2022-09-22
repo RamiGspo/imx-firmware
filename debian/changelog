@@ -1,0 +1,6 @@
+imx-firmware (5.10.72-2.2.2-1) buster; urgency=medium
+
+  [ Ramiro Gsponer ]
+  * Add debianization
+
+ -- Ramiro Gsponer <r.gsponer@kunbus.com>  Thu, 22 Sep 2022 11:05:48 +0200
